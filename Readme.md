@@ -56,8 +56,5 @@ The differential equation used to model the pendulum considers:
 
 Numerical integration is performed using `solve_ivp` (Runge-Kutta 5th order method).
 
-## Author
-Developed by [Your Name]
-
 ## License
 This project is licensed under the MIT License.
